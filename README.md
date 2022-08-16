@@ -29,6 +29,9 @@
 <br><br>
 
 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=pouryaJany&show_icons=true&theme=radical)
+
+<br><br>
 
 - 👋 Hi, I’m @pouryaJany
 - 👀 I’m interested in programming
